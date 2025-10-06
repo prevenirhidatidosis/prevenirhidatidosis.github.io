@@ -4,9 +4,6 @@ description = "A simple demo project showcasing tabi's project features"
 weight = 1
 template = "page.html"
 
-[taxonomies]
-tags = ["meta"]
-
 [extra]
 local_image = "img/profile.webp"
 +++
