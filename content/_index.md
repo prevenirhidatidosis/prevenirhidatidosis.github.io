@@ -1,10 +1,9 @@
 +++
-title = "Latest posts"
+title = "MapEdu"
 
 [extra]
-header = { title = "Hi, I'm YOUR_NAME! 👋", img = "img/profile.webp", img_alt = "YOUR_NAME" }
+header = { title = "Prevenir hidatidosis", img = "img/prevenir_hidatidosis_logo.png", img_alt = "Prevenir hidatidosis" }
 section_path = "blog/_index.md"
 max_posts = 5
 +++
 
-Welcome to my personal site!
