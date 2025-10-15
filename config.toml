@@ -1,7 +1,7 @@
 base_url = "https://prevenirhidatidosis.libre.net.ar"
 title = "Prevenir hidatidosis"
 description = "Elaboración de mapas de riesgo a partir de la identificación y registro de faenas de consumo familiar como estrategia para la prevención de la hidatidosis"
-author = " Esc. José Brochero. Las Lagunitas"
+author = "Esc. José Brochero, Red Comunitaria Las Lagunitas && FAV UNRC"
 theme = "tabi"
 generate_feeds = true
 compile_sass = true
