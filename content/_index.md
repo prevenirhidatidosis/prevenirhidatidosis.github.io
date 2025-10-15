@@ -2,7 +2,7 @@
 title = ""
 
 [extra]
-header = { title = "Mapas de riesgo", img = "img/prevenir.hidatidosis_logo.png", img_alt = "Prevenir hidatidosis" }
+header = { title = "Prevención de la hidatidosis", img = "img/prevenir.hidatidosis_logo.png", img_alt = "Prevenir hidatidosis" }
 section_path = "blog/_index.md"
 max_posts = 5
 +++
