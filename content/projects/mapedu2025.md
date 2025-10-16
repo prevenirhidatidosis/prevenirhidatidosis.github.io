@@ -204,7 +204,13 @@ Analizar y caracterizar la epidemiología de las zoonosis parasitarias en canino
 **6\. Documentación del proceso (Criterio 6\)**
 
 * Incluyan documentación: fotos, materiales, videos, etc.  
-    
+
+![](img/hidatidosis_05.jpeg)
+
+![](img/hidatidosis_06.jpeg)
+
+![](img/hidatidosis_07.jpeg)
+
 * Presentan el mapa elaborado hasta la fecha (screenshots, links, etc.)  
   [**https://mapa.libre.net.ar/prevenir.hidatidosis/**](https://mapa.libre.net.ar/prevenir.hidatidosis/) 
 
