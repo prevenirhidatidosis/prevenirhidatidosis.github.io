@@ -19,9 +19,11 @@ local_image = "img/mapa_hidatidosis_projecto.png"
 
 ## Institución educativa que representa  
     
-* Escuela rural José G. Brochero. Paraje Las Lagunitas
+* Escuela rural José G. Brochero. Paraje Las Lagunitas. Zona rural entre Río de los Sauces y Alpa Corral. Córdoba. Arg.
 
-El proyecto ha sido coordinado por la escuela rural José Brochero, quien está articulado el trabajo con otras escuelas de la zona con las que \- de manera regular \- comparten actividades. Se destaca que son escuelas con muy pocos estudiantes. En la escuela Brochero asiste una única alumna, Candela.
+![](https://daniel.bellomo.ar/com.comunitaria.UNRC.Sep25/img/esc.jpg)
+
+El proyecto ha sido coordinado por la escuela rural José Brochero, quien está articulado el trabajo con otras escuelas rurales de la zona con las que \- de manera regular \- comparten actividades. Se destaca que son escuelas con muy pocos estudiantes. En la escuela Brochero asiste una única alumna, Candela.
 
 ## Título y objetivo del proyecto
 
