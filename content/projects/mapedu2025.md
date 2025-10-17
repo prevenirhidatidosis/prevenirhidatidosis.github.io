@@ -13,7 +13,7 @@ local_image = "img/mapa_hidatidosis_projecto.png"
 
 +++
 
-## Proyecto articulado entre la Escuela José Gabriel Brochero del paraje Las Lagunitas y la facultad de agronomía y veterinaria UNRC.
+> Proyecto articulado entre la Escuela José Gabriel Brochero del paraje Las Lagunitas y la facultad de agronomía y veterinaria UNRC.
 
 ## 1. Información general del proyecto
 
