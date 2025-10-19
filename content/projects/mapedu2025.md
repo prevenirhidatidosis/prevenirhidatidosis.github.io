@@ -28,7 +28,7 @@ local_image = "img/mapa_hidatidosis_projecto.png"
 Geo URI
 - geo:-32.607102,-64.729265?z=19
 
-El proyecto ha sido coordinado por la escuela rural José Brochero, quien está articulado el trabajo con otras escuelas rurales de la zona con las que \- de manera regular \- comparten actividades. Se destaca que son escuelas con muy pocos estudiantes. En la escuela Brochero asiste una única alumna, Candela.
+El proyecto ha sido coordinado por la escuela rural José Brochero, quien está articulando el trabajo con otras escuelas rurales de la zona con las que \- de manera regular \- comparten actividades. Se destaca que son escuelas con muy pocos estudiantes. En la escuela Brochero asiste una única alumna, Candela.
 
 ## Título y objetivo del proyecto
 
@@ -67,7 +67,7 @@ Analizar y caracterizar la epidemiología de las zoonosis parasitarias en canino
 * Comprender los factores epidemiológicos que influyen en su transmisión.  
 * Analizar datos epidemiológicos reales o simulados.  
 * Proponer medidas de prevención desde una perspectiva integral (One Health).
-* Aplicar los conocimientos adquiridos en las activiades de mapeo colaboratico con datos abiertos en una problemática de la zona.
+* Aplicar los conocimientos adquiridos en las activiades de mapeo colaboratico con datos abiertos, en una problemática de las familias de la zona.
 
 ## Contenidos
 
@@ -78,7 +78,7 @@ Analizar y caracterizar la epidemiología de las zoonosis parasitarias en canino
 * Métodos de diagnóstico y vigilancia epidemiológica.  
 * Prevención y control en contexto comunitario.  
 * Análisis de datos y elaboración de gráficos.
-* Desarrollo de mapas para complemantar como una herrramienta estratécica.
+* Desarrollo de mapas para complemantar como una herrramienta estratégica.
 
 ## Aprendizaje esperado
 
@@ -119,7 +119,7 @@ Los estudiantes participaron activamente en el relevamiento de datos, realizando
 * Etapa de difusión y prevención: colaboraron en la creación de materiales informativos (folletos, presentaciones, charlas) orientados a concientizar sobre la hidatidosis y las prácticas seguras de faena, compartiéndolos dentro de la comunidad educativa y en los espacios comunitarios.
 
 ## ¿Cuántos estudiantes participaron?
-En una primera etapa, participaron 10 estudiantes de los colegios mencionados previamente. Sin embargo, se prevé la incorporación de nuevas instituciones educativas rurales de Río Cuarto  (Provincia de Córdoba, Argentina)y localidades aledañas  en las siguientes fases del proyecto.
+En una primera etapa, participaron 10 estudiantes de los colegios mencionados previamente. Sin embargo, se prevé la incorporación de nuevas instituciones educativas rurales de Río Cuarto (Provincia de Córdoba, Argentina) y localidades aledañas en las siguientes fases del proyecto.
 
 ## Describan la participación y dinámica en el proceso de creación del mapa  
 Se trabajó identificando los hogares usando imágenes satelitales. Luego de encontrarlos se tomaba la coordenada con esa información se completaba una encuesta definida por el equipo de veterinarios. 
@@ -127,7 +127,7 @@ Se trabajó identificando los hogares usando imágenes satelitales. Luego de enc
 ## ¿Mapearon de manera colaborativa? ¿Cómo?
 Sí. Desde la escuela se comunicaban con las familias y se les solicitaban que le envíen la ubicación de sus hogares.
 
-## 4. Participación comunitaria (Criterio 4\)
+## 4. Participación comunitaria (Criterio 4)
 
 ## ¿Qué otras instituciones u organizaciones se involucraron en el proyecto de mapeo?  
 * Universidad Nacional de Río Cuarto
@@ -157,7 +157,7 @@ El proyecto se fundamenta en la construcción colectiva del conocimiento y la pa
 * Desarrollar mapas accesibles y comprensibles, validados en conjunto con la comunidad.
 * Presentar los resultados en encuentros abiertos y en formato visual para favorecer la apropiación del conocimiento.
 
-## 5. Impacto y herramientas utilizadas (Criterios 1 y 5\)
+## 5. Impacto y herramientas utilizadas (Criterios 1 y 5)
 
 ## ¿Cuáles son los objetivos del proyecto?
 
