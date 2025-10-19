@@ -67,6 +67,7 @@ Analizar y caracterizar la epidemiología de las zoonosis parasitarias en canino
 * Comprender los factores epidemiológicos que influyen en su transmisión.  
 * Analizar datos epidemiológicos reales o simulados.  
 * Proponer medidas de prevención desde una perspectiva integral (One Health).
+* Aplicar los conocimientos adquiridos en las activiades de mapeo colaboratico con datos abiertos en una problemática de la zona.
 
 ## Contenidos
 
@@ -77,6 +78,7 @@ Analizar y caracterizar la epidemiología de las zoonosis parasitarias en canino
 * Métodos de diagnóstico y vigilancia epidemiológica.  
 * Prevención y control en contexto comunitario.  
 * Análisis de datos y elaboración de gráficos.
+* Desarrollo de mapas para complemantar como una herrramienta estratécica.
 
 ## Aprendizaje esperado
 
@@ -99,6 +101,7 @@ Analizar y caracterizar la epidemiología de las zoonosis parasitarias en canino
 * Elaboración de la encuesta. (hoja de cálculo)
 * Aplicación de la encuesta a los vecinos y familia.
 * Análisis de datos y elaboración de gráficos (hoja de cálculo)
+* Elaboración del mapa en base a los datos de la encuesta
 * Escritura de la conclusión sobre el tema trabajado.
 * Diseño y elaboración de folletos para informar sobre la hidatidosis – enfermedad zoonótica.
 * Preparación de material y cartelería para exposición en feria de ciencias.
