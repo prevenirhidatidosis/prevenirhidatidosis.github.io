@@ -28,24 +28,24 @@ local_image = "img/mapa_hidatidosis_projecto.png"
 Geo URI
 - geo:-32.607102,-64.729265?z=19
 
-El proyecto ha sido coordinado por la escuela rural José Brochero, quien está articulando el trabajo con otras escuelas rurales de la zona con las que \- de manera regular \- comparten actividades. Se destaca que son escuelas con muy pocos estudiantes. En la escuela Brochero asiste una única alumna, Candela.
+El proyecto ha sido coordinado por la escuela rural Nro 3141 José Brochero de nivel primario, quien está articulando el trabajo con otras escuelas rurales de la zona con las que \- de manera regular \- comparten actividades. Se destaca que son escuelas con muy pocos estudiantes. En la escuela Brochero asiste una única alumna, Candela.
 
 ## Título y objetivo del proyecto
 
 "Elaboración de mapas de riesgo a partir de la identificación y registro de faenas de consumo familiar como estrategia para la prevención de la hidatidosis" 
 
-## Temática elegido  
+## Temática elegida
 * Desarrollo Social
 
-## Nombre y apellido de docentes involucrados  
-    
-Docentes de la Institución Primaria  
-* Flavia Dominguez  
+## Nombre y apellido del equipo involucrado
 
-Docentes Universitarios  
-* Carlos Motta
-* Melina Richardet
-* Daniel Bellomo
+Escuela Rural Primaria Nro 3141 José G. Brochero
+* Flavia Dominguez (directora y maestra, personal único)
+
+Facultad de Agronomía y Veterinaria (UNRC)
+* Carlos Motta (docente)
+* Melina Richardet (docente
+* Daniel Bellomo (analista)
 
 ## 2. Vinculación curricular
 
