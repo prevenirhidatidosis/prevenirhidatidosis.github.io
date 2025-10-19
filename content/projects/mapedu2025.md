@@ -28,6 +28,8 @@ local_image = "img/mapa_hidatidosis_projecto.png"
 Geo URI
 - geo:-32.607102,-64.729265?z=19
 
+![](https://hidatidosis.github.io/fotos/media/large/2025.06.17_encuentro.esc.lagunitas/IMG_3915_01.png)
+
 El proyecto ha sido coordinado por la escuela rural Nro 3141 José Brochero de nivel primario, quien está articulando el trabajo con otras escuelas rurales de la zona con las que \- de manera regular \- comparten actividades. Se destaca que son escuelas con muy pocos estudiantes. En la escuela Brochero asiste una única alumna, Candela.
 
 ## Título y objetivo del proyecto
@@ -85,6 +87,8 @@ Analizar y caracterizar la epidemiología de las zoonosis parasitarias en canino
 **Propósito didáctico:** Que los estudiantes identifiquen qué son las zoonosis parasitarias, cómo afectan a los perros y cómo prevenirlas en su entorno.
 
 **Propósito comunicativo:** Adquirir los conocimientos necesarios para exponer en feria de ciencias, y concientizar a la población sobre el cuidado de los animales domésticos.
+
+![](https://hidatidosis.github.io/fotos/media/large/2025.06.17_encuentro.esc.lagunitas/IMG_3906.png)
 
 ## Actividades:
 
@@ -147,6 +151,8 @@ El proyecto se fundamenta en la construcción colectiva del conocimiento y la pa
 * Realizar talleres comunitarios en los que se expliquen los mecanismos de transmisión de la enfermedad y las medidas preventivas.
 * Generar espacios de intercambio de saberes, donde la comunidad pueda compartir sus experiencias y prácticas cotidianas.
 
+![](https://hidatidosis.github.io/fotos/media/large/2025.06.17_encuentro.esc.lagunitas/IMG_3915_01.png)
+
 ## 3. Registro colaborativo de información
 
 * Promover el registro participativo de datos sobre faenas familiares (tiempo, lugar, destino de vísceras).
@@ -182,6 +188,8 @@ Se espera que los mapas de riesgo generados sirvan como herramientas de referenc
 ## ¿Cuál es su "mejor escenario" de impacto final?
 
 El mejor escenario de impacto final consiste en la reducción sostenida de la incidencia de hidatidosis en las zonas rurales de la región de la Sierra de los Comechingones, a partir de la implementación de políticas públicas informadas por evidencia científica, el fortalecimiento de la vigilancia epidemiológica y sanitaria, y la adopción de prácticas seguras de faena domiciliaria por parte de la población local.
+
+![](https://hidatidosis.github.io/fotos/media/large/2025.06.17_encuentro.esc.lagunitas/IMG_3915_01.png)
 
 ## ¿Existe un impacto directo o indirecto en la comunidad educativa?
     
