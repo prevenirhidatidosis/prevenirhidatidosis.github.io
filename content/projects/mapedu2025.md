@@ -67,7 +67,7 @@ Analizar y caracterizar la epidemiología de las zoonosis parasitarias en canino
 * Comprender los factores epidemiológicos que influyen en su transmisión.  
 * Analizar datos epidemiológicos reales o simulados.  
 * Proponer medidas de prevención desde una perspectiva integral (One Health).
-* Aplicar los conocimientos adquiridos en las activiades de mapeo colaboratico con datos abiertos, en una problemática de las familias de la zona.
+* Aplicar los conocimientos adquiridos en las activiades de mapeo colaborativo con datos abiertos, en una problemática de las familias de la zona *(conocimiento situado)*.
 
 ## Contenidos
 
