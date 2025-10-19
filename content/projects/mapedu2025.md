@@ -40,14 +40,14 @@ El proyecto ha sido coordinado por la escuela rural Nro 3141 José Brochero de n
 ## Temática elegida
 * Desarrollo Social
 
-## Nombre y apellido del equipo involucrado
+## Nombre y apellido del equipo coordinador
 
 Escuela Rural Primaria Nro 3141 José G. Brochero
 * Flavia Dominguez (directora y maestra, personal único)
 
 Facultad de Agronomía y Veterinaria (UNRC)
 * Carlos Motta (docente)
-* Melina Richardet (docente
+* Melina Richardet (docente)
 * Daniel Bellomo (analista)
 
 ## 2. Vinculación curricular
