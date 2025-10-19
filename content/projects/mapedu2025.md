@@ -28,7 +28,7 @@ local_image = "img/mapa_hidatidosis_projecto.png"
 Geo URI
 - geo:-32.607102,-64.729265?z=19
 
-![](https://hidatidosis.github.io/fotos/media/large/2025.06.17_encuentro.esc.lagunitas/IMG_3915_01.png)
+![](https://hidatidosis.github.io/fotos/media/large/2025.06.17_encuentro.esc.lagunitas/IMG_3912_01.png)
 
 El proyecto ha sido coordinado por la escuela rural Nro 3141 José Brochero de nivel primario, quien está articulando el trabajo con otras escuelas rurales de la zona con las que \- de manera regular \- comparten actividades. Se destaca que son escuelas con muy pocos estudiantes. En la escuela Brochero asiste una única alumna, Candela.
 
