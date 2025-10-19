@@ -151,7 +151,7 @@ El proyecto se fundamenta en la construcción colectiva del conocimiento y la pa
 * Realizar talleres comunitarios en los que se expliquen los mecanismos de transmisión de la enfermedad y las medidas preventivas.
 * Generar espacios de intercambio de saberes, donde la comunidad pueda compartir sus experiencias y prácticas cotidianas.
 
-![](https://hidatidosis.github.io/fotos/media/large/2025.06.17_encuentro.esc.lagunitas/IMG_3915_01.png)
+![](https://hidatidosis.github.io/fotos/media/large/2025.06.17_encuentro.esc.lagunitas/IMG_3913.png)
 
 ## 3. Registro colaborativo de información
 
