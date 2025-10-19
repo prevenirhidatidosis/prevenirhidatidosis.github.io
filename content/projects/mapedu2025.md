@@ -19,9 +19,10 @@ local_image = "img/mapa_hidatidosis_projecto.png"
 
 ## Institución educativa que representa  
     
-* Escuela rural de nivel primario José G. Brochero. Paraje Las Lagunitas. Dpto Calamuchita. Zona rural entre Río de los Sauces y Alpa Corral. Córdoba. Arg.
+* Escuela rural Nro 3141 de nivel primario José G. Brochero.
+* Paraje Las Lagunitas. Dpto Calamuchita. Zona rural entre Río de los Sauces y Alpa Corral. Córdoba. Arg.
 
-![](https://daniel.bellomo.ar/com.comunitaria.UNRC.Sep25/img/esc.jpg)
+![](https://hidatidosis.github.io/fotos/media/large/2025.06.17_encuentro.esc.lagunitas/esc.jpg)
 
 [ver ubicación en el mapa](https://www.openstreetmap.org/?mlat=-32.607102&mlon=-64.729265#map=19/-32.607102/-64.729265)
 
