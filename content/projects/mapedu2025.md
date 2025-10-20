@@ -197,9 +197,10 @@ Sí, existe un impacto directo e indirecto en la comunidad educativa. La educaci
 
 ## Mencionen qué herramientas de mapeo abierto han utilizado
 
-uMap, Kobo Collect, OSM, iD editor, JOSM, QGIS
+uMap, KoboToolBox/Kobo Collect, OSM, iD editor, JOSM, QGIS
   
 ## ¿Cuáles han sido las ventajas del uso de estas herramientas?
+  - KoboToolBox: sitematizar la toma de datos.
   - Kobo Collect: Nos posibilitó cargar datos georreferenciados, fotos y descripciones de cada punto de faena.
   - iD Editor y JOSM: Logramos mapear caminos rurales, corrales y asentamientos.
   - QGIS (uso docente/universitario): para procesar los datos y generar mapas de riesgo más detallados.
