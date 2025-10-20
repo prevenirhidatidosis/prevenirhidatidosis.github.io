@@ -9,4 +9,4 @@ max_posts = 5
 
 Proyecto articulado entre la Escuela José Gabriel Brochero del paraje Las Lagunitas, la red comunitaria y científica de telecomunicaciones y la facultad de agronomía y veterinaria UNRC
 
-> [mapa](https://mapa.libre.net.ar/prevenir.hidatidosis/) 
+> [Mapa -> https://mapa.libre.net.ar/prevenir.hidatidosis](https://mapa.libre.net.ar/prevenir.hidatidosis/) 
