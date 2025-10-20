@@ -221,7 +221,7 @@ uMap, Kobo Collect, OSM, iD editor, JOSM, QGIS
 
 ![](/img/hidatidosis_07.jpeg)
 
-[Blog](https://prevenirhidatidosis.libre.net.ar/blog/)
+[Blog: https://prevenirhidatidosis.libre.net.ar/blog/](https://prevenirhidatidosis.libre.net.ar/blog/)
 
 ## Presentan el mapa elaborado hasta la fecha (screenshots, links, etc.)
 
