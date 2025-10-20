@@ -25,8 +25,7 @@ local_image = "img/mapa_hidatidosis_projecto.png"
 
 [ver ubicación en el mapa](https://www.openstreetmap.org/?mlat=-32.607102&mlon=-64.729265#map=19/-32.607102/-64.729265)
 
-Geo URI
-- geo:-32.607102,-64.729265?z=19
+Geo URI geo:-32.607102,-64.729265?z=19
 
 ![](https://hidatidosis.github.io/fotos/media/large/2025.06.17_encuentro.esc.lagunitas/IMG_3912_01.png)
 
@@ -90,7 +89,7 @@ Analizar y caracterizar la epidemiología de las zoonosis parasitarias en canino
 
 ![](https://hidatidosis.github.io/fotos/media/large/2025.06.17_encuentro.esc.lagunitas/IMG_3906.png)
 
-## Actividades:
+## Actividades
 
 * Charlas para indagar lo que la estudiante conoce del tema a estudiar.
 * Lluvia de ideas.
@@ -212,9 +211,9 @@ uMap, KoboToolBox/Kobo Collect, OSM, iD editor, JOSM, QGIS
   - Permiten integrar información cualitativa (entrevistas, fotos, prácticas) y cuantitativa (ubicaciones, frecuencia, factores de riesgo).
   - Generan productos visuales claros, útiles para la comunidad y la gestión sanitaria local.
 
-## 6. Documentación del proceso (Criterio 6\)
+## 6. Documentación del proceso (Criterio 6)
 
-## Incluyan documentación: fotos, materiales, videos, etc.
+## Incluyan documentación: fotos, materiales, videos
 
 ![](/img/hidatidosis_05.jpeg)
 
@@ -222,37 +221,10 @@ uMap, KoboToolBox/Kobo Collect, OSM, iD editor, JOSM, QGIS
 
 ![](/img/hidatidosis_07.jpeg)
 
-[Blog: https://prevenirhidatidosis.libre.net.ar/blog/](https://prevenirhidatidosis.libre.net.ar/blog/)
+[Blog: https://PrevenirHidatidosis.libre.net.ar/blog/](https://prevenirhidatidosis.libre.net.ar/blog/)
 
-## Presentan el mapa elaborado hasta la fecha (screenshots, links, etc.)
+## Presentan el mapa elaborado hasta la fecha
 
 [**https://mapa.libre.net.ar/prevenir.hidatidosis/**](https://mapa.libre.net.ar/prevenir.hidatidosis/)
 
-Este proyecto transforma el aprendizaje en acción: los estudiantes mapean su entorno, comprenden las causas de una zoonosis endémica y se convierten en agentes de prevención en sus propias comunidades rurales.
-
-## Criterios de evaluación del jurado
-
-1. **Creatividad en la elección del tema y ejecución**
-   * Pensamiento innovador en la identificación de problemas locales
-   * Capacidad de modificar el proyecto según los resultados obtenidos
-2. **Alineación con el currículo educativo**
-   * Conexión curricular clara del proyecto
-   * Competencias y capacidades desarrolladas
-   * Integración como proyecto pedagógico entre varias áreas curriculares
-3. **Participación activa y colaboración estudiantil**
-   * Calidad de la colaboración en todas las fases del proyecto
-   * Documentación clara de los aportes de cada estudiante
-4. **Conexión y participación comunitaria**
-   * Pertinencia del proyecto para la comunidad
-   * Involucramiento efectivo de actores locales
-   * Estrategia de acercamiento a la comunidad
-5. **Impacto general obtenido**
-   * Comprensión de las implicaciones del proyecto
-   * Potencial de continuidad o réplica
-   * Difusión de resultados
-   * Productos concretos que benefician a la comunidad
-6. **Documentación del proceso**
-   * Registro fotográfico, screenshots y vídeos
-   * Evidencia de la participación estudiantil
-   * Documentación del proceso de mapeo
-   * Registro del impacto obtenido/posible
+> Este proyecto transforma el aprendizaje en acción: los estudiantes mapean su entorno, comprenden las causas de una zoonosis endémica y se convierten en agentes de prevención en sus propias comunidades rurales
