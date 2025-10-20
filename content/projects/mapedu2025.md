@@ -225,6 +225,8 @@ uMap, KoboToolBox/Kobo Collect, OSM, iD editor, JOSM, QGIS
 
 ## Presentan el mapa elaborado hasta la fecha
 
+**Nota:** Elegimos utilizar un mapa de calor para preservar información personal de las familias.
+
 [**https://mapa.libre.net.ar/prevenir.hidatidosis/**](https://mapa.libre.net.ar/prevenir.hidatidosis/)
 
 > Este proyecto transforma el aprendizaje en acción: los estudiantes mapean su entorno, comprenden las causas de una zoonosis endémica y se convierten en agentes de prevención en sus propias comunidades rurales
