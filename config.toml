@@ -322,6 +322,7 @@ allowed_domains = [
     { directive = "script-src", domains = ["'self'"] },
     { directive = "style-src", domains = ["'self'"] },
     { directive = "frame-src", domains = ["player.vimeo.com", "https://www.youtube-nocookie.com"] },
+    { directive = "frame-src", domains = ["prevenirhidatidosis.libre.net.ar", "https://prevenirhidatidosis.libre.net.ar"] },
 ]
 
 # Enable the CSP directives configured (or default).
