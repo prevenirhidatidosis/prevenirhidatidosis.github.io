@@ -132,7 +132,7 @@ Sí. Desde la escuela se comunicaban con las familias y se les solicitaban que l
 
 ## 4. Participación comunitaria (Criterio 4)
 
-## ¿Qué otras instituciones u organizaciones se involucraron en el proyecto de mapeo?  
+¿Qué otras instituciones u organizaciones se involucraron en el proyecto de mapeo?  
 * Universidad Nacional de Río Cuarto
 * Las Lagunitas red comunitaria y científica
 
@@ -168,11 +168,11 @@ El proyecto se fundamenta en la construcción colectiva del conocimiento y la pa
 
 La hidatidosis, también conocida como equinococosis quística, es una zoonosis parasitaria de importancia sanitaria y socioeconómica, causada por el estadio larval del cestodo *Echinococcus granulosus.* Su transmisión se relaciona estrechamente con prácticas rurales tradicionales, especialmente aquellas vinculadas a la cría de ganado y la faena domiciliaria, donde el ciclo biológico del parásito puede mantenerse a través del contacto entre perros, hospedadores intermediarios (ovinos, bovinos, caprinos) y el ser humano como hospedador accidental. La región de la Sierra de los Comechingones, situada entre las provincias de Córdoba y San Luis (Argentina), presenta características geográficas y socioeconómicas particulares que favorecen la persistencia de esta enfermedad. La existencia de zonas rurales con limitado acceso a servicios veterinarios y de salud pública, sumado a prácticas de faena casera sin control sanitario, representa un entorno propicio para la transmisión del parásito. Este estudio se propone analizar el vínculo entre dichas prácticas y los factores de riesgo ambientales mediante herramientas geoespaciales, como los sistemas de información geográfica (SIG), con el fin de contribuir al diseño de políticas públicas orientadas a la prevención y control de la hidatidosis en contextos rurales.
     
-## OBJETIVO GENERAL
+## Objetivo general
 
 Analizar la localización de establecimientos y sitios donde se llevan a cabo faenas domiciliarias destinadas al consumo familiar en zonas rurales de la provincia de Córdoba, con el propósito de elaborar mapas de riesgo que contribuyan a la planificación e implementación de estrategias efectivas para la prevención de la hidatidosis.  
 
-## OBJETIVOS ESPECÍFICOS
+## Objetivos específicos
 
 * **Identificar** los establecimientos rurales y domicilios particulares donde se realizan faenas caseras para consumo familiar en la provincia de Córdoba.
 * **Caracterizar** las prácticas de faena domiciliaria en términos de frecuencia, condiciones sanitarias y destino de los subproductos.
@@ -213,7 +213,7 @@ uMap, KoboToolBox/Kobo Collect, OSM, iD editor, JOSM, QGIS
 
 ## 6. Documentación del proceso (Criterio 6)
 
-## Incluyan documentación: fotos, materiales, videos
+Incluyan documentación: fotos, materiales, videos
 
 ![](/img/hidatidosis_05.jpeg)
 
