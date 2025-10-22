@@ -13,7 +13,7 @@ local_image = "img/mapa_hidatidosis_projecto.png"
 
 +++
 
-> Proyecto articulado entre la Escuela Rural de nivel primario Nro 3141 José Gabriel Brochero del paraje Las Lagunitas, la red comunitaria y científica de telecomunicaciones y la facultad de agronomía y veterinaria UNRC.
+{{ admonition(type="note", text="Proyecto articulado entre la Escuela Rural de nivel primario Nro 3141 José Gabriel Brochero del paraje Las Lagunitas, la red comunitaria y científica de telecomunicaciones y la facultad de agronomía y veterinaria UNRC) }}
 
 ## 1. Información general del proyecto
 
