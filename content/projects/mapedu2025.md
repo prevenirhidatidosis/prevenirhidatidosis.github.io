@@ -1,6 +1,6 @@
 +++
 title = "Mapas de riesgo"
-description = "Elaboración de mapas de riesgo a partir de la identificación y registro de faenas de consumo familiar como estrategia para la prevención de la hidatidosis"
+description = "Concurso MapEdu 2025 (OM4A HOT): trazando aprendizajes desde el territorio"
 
 weight = 1
 template = "page.html"
