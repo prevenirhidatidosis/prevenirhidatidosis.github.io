@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://prevenirhidatidosis.libre.net.ar/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
+        <tabi:base_url>https:&#x2F;&#x2F;prevenirhidatidosis.libre.net.ar</tabi:base_url>
+        <tabi:separator>
+            •
+        </tabi:separator>
+        <tabi:about_feeds>Esta es una fuente web, también conocida como fuente Atom. Suscríbete copiando la URL de la barra de direcciones en tu lector de noticias. Visita About Feeds para aprender más y empezar. Es gratis. </tabi:about_feeds>
+        <tabi:visit_the_site>Visita la web</tabi:visit_the_site>
+        <tabi:recent_posts>Publicaciones recientes</tabi:recent_posts>
+        <tabi:last_updated_on>Actualizado el $DATE</tabi:last_updated_on>
+        <tabi:default_theme></tabi:default_theme>
+        <tabi:post_listing_date>date</tabi:post_listing_date>
+        <tabi:current_section>taller de mapeo</tabi:current_section>
+    </tabi:metadata><title>Prevenir hidatidosis - taller de mapeo</title>
+        <subtitle>Elaboración de mapas de riesgo a partir de la identificación y registro de faenas de consumo familiar como estrategia para la prevención de la hidatidosis</subtitle>
+    <link href="https://prevenirhidatidosis.libre.net.ar/tags/taller-de-mapeo/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://prevenirhidatidosis.libre.net.ar/tags/taller-de-mapeo/" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2024-06-19T00:00:00+00:00</updated><id>https://prevenirhidatidosis.libre.net.ar/tags/taller-de-mapeo/atom.xml</id><entry xml:lang="es">
+        <title>Taller de mapeo abierto y colaborativo para la gestión de riesgos</title>
+        <published>2024-06-19T00:00:00+00:00</published>
+        <updated>2024-06-19T00:00:00+00:00</updated>
+        <author>
+            <name>Esc. rural José G. Brochero, Las Lagunitas Red Comunitaria y Científica &amp;&amp; FAV UNRC</name>
+        </author>
+        <link rel="alternate" href="https://prevenirhidatidosis.libre.net.ar/blog/2025-06-19-taller/" type="text/html"/>
+        <id>https://prevenirhidatidosis.libre.net.ar/blog/2025-06-19-taller/</id>
+        
+            <content type="html">&lt;h2 id=&quot;se-brindo-un-taller-de-mapeo-para-afrontar-desastres-naturales&quot;&gt;Se brindó un taller de mapeo para afrontar desastres naturales.&lt;&#x2F;h2&gt;
+&lt;p&gt;Se dio en Río de los Sauces un taller sobre “Mapeo abierto y colaborativo para la gestión de riesgos” a las escuelas rurales de Las Lagunitas y parajes cercanos. Se encuadró en el proyecto de extensión “Programa para contingencias ante desastres naturales y mitigar los efectos del cambio climático” dirigido por el profesor José Raviolo y codirigido por el técnico Daniel Bellomo.&lt;&#x2F;p&gt;
+&lt;p&gt;Participaron estudiantes, docentes y familiares de las siguientes escuelas primarias: José Gabriel Brochero, paraje Las Lagunitas; Aeronáutica Argentina, paraje San Francisco; Olegario Víctor Andrade, paraje Huerta Vieja; 25 de Mayo, paraje Cerro Colorado y Ricardo Rojas paraje El Cano.&lt;&#x2F;p&gt;
+&lt;p&gt;Esta actividad se articuló con el programa “Mapeo abierto para todos” del Equipo Humanitario de OpenStreetMap Hub Latinoamárica y Caribe, y contó con la participación del coordinador, Tim DeWinter.&lt;&#x2F;p&gt;
+&lt;p&gt;La UNRC tiene el campo Las Guindas en Las Lagunitas. En tal sentido, se realizan acciones en pos de desarrollar un plan de contingencia ante posibles desastres naturales, especialmente violentos en un contexto de cambio climático, para mitigar sus efectos y estar preparados para actuar en consecuencia.&lt;&#x2F;p&gt;
+&lt;p&gt;El proyecto permitirá facilitar a las comunidades el acceso a tecnologías de software libre de mapeo humanitario, que hacen un uso eficiente de los recursos para proteger a las personas, sus bienes, los bienes comunes y el ambiente natural.&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.unrc.edu.ar&#x2F;unrc&#x2F;n_comp.cdc?nota=38112&quot;&gt;noticia en la web de la UNRC&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;fotos&quot;&gt;Fotos&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.06.19_taller_mapeo_esc_rurales&#x2F;00.flyer_taller_esc_rurales.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.06.19_taller_mapeo_esc_rurales&#x2F;esc1.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.06.19_taller_mapeo_esc_rurales&#x2F;esc2.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.06.19_taller_mapeo_esc_rurales&#x2F;esc3.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">En el marco del acto de día de la bandera se realiza el Taller de mapeo abierto y colaborativo para la gestión de riesgos en el SUM municipal de Río de los Sauces</summary>
+        </entry>
+</feed>

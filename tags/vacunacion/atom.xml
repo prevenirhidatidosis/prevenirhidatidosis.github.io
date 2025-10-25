@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://prevenirhidatidosis.libre.net.ar/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
+        <tabi:base_url>https:&#x2F;&#x2F;prevenirhidatidosis.libre.net.ar</tabi:base_url>
+        <tabi:separator>
+            •
+        </tabi:separator>
+        <tabi:about_feeds>Esta es una fuente web, también conocida como fuente Atom. Suscríbete copiando la URL de la barra de direcciones en tu lector de noticias. Visita About Feeds para aprender más y empezar. Es gratis. </tabi:about_feeds>
+        <tabi:visit_the_site>Visita la web</tabi:visit_the_site>
+        <tabi:recent_posts>Publicaciones recientes</tabi:recent_posts>
+        <tabi:last_updated_on>Actualizado el $DATE</tabi:last_updated_on>
+        <tabi:default_theme></tabi:default_theme>
+        <tabi:post_listing_date>date</tabi:post_listing_date>
+        <tabi:current_section>vacunación</tabi:current_section>
+    </tabi:metadata><title>Prevenir hidatidosis - vacunación</title>
+        <subtitle>Elaboración de mapas de riesgo a partir de la identificación y registro de faenas de consumo familiar como estrategia para la prevención de la hidatidosis</subtitle>
+    <link href="https://prevenirhidatidosis.libre.net.ar/tags/vacunacion/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://prevenirhidatidosis.libre.net.ar/tags/vacunacion/" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2025-05-02T00:00:00+00:00</updated><id>https://prevenirhidatidosis.libre.net.ar/tags/vacunacion/atom.xml</id><entry xml:lang="es">
+        <title>Vacunación y extracción de sangre en Las Guindas</title>
+        <published>2025-05-02T00:00:00+00:00</published>
+        <updated>2025-05-02T00:00:00+00:00</updated>
+        <author>
+            <name>Esc. rural José G. Brochero, Las Lagunitas Red Comunitaria y Científica &amp;&amp; FAV UNRC</name>
+        </author>
+        <link rel="alternate" href="https://prevenirhidatidosis.libre.net.ar/blog/2025-06-17-vacinacion/" type="text/html"/>
+        <id>https://prevenirhidatidosis.libre.net.ar/blog/2025-06-17-vacinacion/</id>
+        
+            <content type="html">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_vacunacion_las.guindas&#x2F;IMG_3824.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_vacunacion_las.guindas&#x2F;IMG_3827.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_vacunacion_las.guindas&#x2F;IMG_3829.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_vacunacion_las.guindas&#x2F;IMG_3831_01.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_vacunacion_las.guindas&#x2F;IMG_3833.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_vacunacion_las.guindas&#x2F;IMG_3837.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_vacunacion_las.guindas&#x2F;IMG_3839.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_vacunacion_las.guindas&#x2F;IMG_3843_01.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_vacunacion_las.guindas&#x2F;IMG_3845_01.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_vacunacion_las.guindas&#x2F;IMG_3852.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_vacunacion_las.guindas&#x2F;IMG_3855_01.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_vacunacion_las.guindas&#x2F;IMG_3859.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_vacunacion_las.guindas&#x2F;IMG_3861_01.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_vacunacion_las.guindas&#x2F;IMG_3864.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_vacunacion_las.guindas&#x2F;IMG_3873.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_vacunacion_las.guindas&#x2F;IMG_3877.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_vacunacion_las.guindas&#x2F;IMG_3885.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_vacunacion_las.guindas&#x2F;IMG_3887.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_vacunacion_las.guindas&#x2F;IMG_3895.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">Jornada de vacunación y extracción de sangre para análisis en el campo Las Guindas de la UNRC</summary>
+        </entry>
+</feed>

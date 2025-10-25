@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://prevenirhidatidosis.libre.net.ar/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
+        <tabi:base_url>https:&#x2F;&#x2F;prevenirhidatidosis.libre.net.ar</tabi:base_url>
+        <tabi:separator>
+            •
+        </tabi:separator>
+        <tabi:about_feeds>Esta es una fuente web, también conocida como fuente Atom. Suscríbete copiando la URL de la barra de direcciones en tu lector de noticias. Visita About Feeds para aprender más y empezar. Es gratis. </tabi:about_feeds>
+        <tabi:visit_the_site>Visita la web</tabi:visit_the_site>
+        <tabi:recent_posts>Publicaciones recientes</tabi:recent_posts>
+        <tabi:last_updated_on>Actualizado el $DATE</tabi:last_updated_on>
+        <tabi:default_theme></tabi:default_theme>
+        <tabi:post_listing_date>date</tabi:post_listing_date>
+        <tabi:current_section>talleres</tabi:current_section>
+    </tabi:metadata><title>Prevenir hidatidosis - talleres</title>
+        <subtitle>Elaboración de mapas de riesgo a partir de la identificación y registro de faenas de consumo familiar como estrategia para la prevención de la hidatidosis</subtitle>
+    <link href="https://prevenirhidatidosis.libre.net.ar/tags/talleres/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://prevenirhidatidosis.libre.net.ar/tags/talleres/" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2025-07-10T00:00:00+00:00</updated><id>https://prevenirhidatidosis.libre.net.ar/tags/talleres/atom.xml</id><entry xml:lang="es">
+        <title>Diagnóstico y prevención</title>
+        <published>2025-07-10T00:00:00+00:00</published>
+        <updated>2025-07-10T00:00:00+00:00</updated>
+        <author>
+            <name>Esc. rural José G. Brochero, Las Lagunitas Red Comunitaria y Científica &amp;&amp; FAV UNRC</name>
+        </author>
+        <link rel="alternate" href="https://prevenirhidatidosis.libre.net.ar/blog/2025-07-10-visita-esc/" type="text/html"/>
+        <id>https://prevenirhidatidosis.libre.net.ar/blog/2025-07-10-visita-esc/</id>
+        
+            <content type="html">&lt;p&gt;El paraje Las Lagunitas, donde se encuentra el campo experimental Las Guindas perteneciente a la Universidad Nacional de Río Cuarto (UNRC), es tan bello como remoto. A tan solo doce kilómetros de Alpa Corral, esta zona del sur cordobés fue durante años un rincón ideal para escapar del agobio urbano, aunque el aislamiento también representaba un serio problema ante emergencias, especialmente por la falta de conectividad.&lt;&#x2F;p&gt;
+&lt;p&gt;WhatsApp, diagnóstico y prevención
+Carlos Motta, docente de la Facultad de Agronomía y Veterinaria de la UNRC, explicó  que la iniciativa que lidera junto a su colega Pedro Provensal emplea WhatsApp como canal principal de comunicación con los pobladores. A través de esta herramienta, pueden enviarles datos útiles sobre prevención de enfermedades zoonóticas, diagnóstico y mapas epidemiológicos.&lt;&#x2F;p&gt;
+&lt;p&gt;“El procedimiento es sencillo pero muy eficaz. Por ejemplo, cuando faenan animales, los lugareños sacan una foto de las vísceras con el celular y nos la envían. A partir de esa imagen, podemos detectar indicios evidentes de enfermedades y comenzar a trazar mapas de prevención”, detalló Motta.&lt;&#x2F;p&gt;
+&lt;p&gt;Entre las enfermedades que se pueden identificar de esta manera figura la hidatidosis, que se presenta en forma de quistes en los pulmones de las ovejas o en el hígado de los cerdos. También es posible detectar casos de tuberculosis en rumiantes, una enfermedad de alto impacto en la salud animal y humana.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;notas-en-los-medios-locales&quot;&gt;Notas en los medios locales&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.lv16.com.ar&#x2F;sg&#x2F;nota-203403&#x2F;conectividad-rural-la-unrc-al-servicio-de-la-salud-y-seguridad-en-el-campo&quot;&gt;LV16. Conectividad Rural: La UNRC al servicio de la salud y seguridad en el campo&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.lariberaweb.com&#x2F;conectividad-rural-docencia-investigacion-y-extension-caminan-entre-los-cerros&#x2F;&quot;&gt;La Rivera. Conectividad rural: Docencia, investigación y extensión caminan entre los cerros&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.valoragregadoagro.com&#x2F;2025&#x2F;06&#x2F;30&#x2F;conectividad-mas-alla-del-whatsapp-se-trata-de-prevencion-y-salud&#x2F;&quot;&gt;Valor agregado. Conectividad: más allá de WhatsApp se trata de prevención y salud&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;fotos&quot;&gt;Fotos&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_encuentro.esc.lagunitas&#x2F;00_imagen.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_encuentro.esc.lagunitas&#x2F;IMG_3896.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_encuentro.esc.lagunitas&#x2F;IMG_3898.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_encuentro.esc.lagunitas&#x2F;IMG_3900.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_encuentro.esc.lagunitas&#x2F;IMG_3905.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_encuentro.esc.lagunitas&#x2F;IMG_3906.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_encuentro.esc.lagunitas&#x2F;IMG_3907_01.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_encuentro.esc.lagunitas&#x2F;IMG_3908.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_encuentro.esc.lagunitas&#x2F;IMG_3910.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_encuentro.esc.lagunitas&#x2F;IMG_3912_01.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_encuentro.esc.lagunitas&#x2F;IMG_3913.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_encuentro.esc.lagunitas&#x2F;IMG_3915_01.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.06.17_encuentro.esc.lagunitas&#x2F;esc.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">Conectividad rural: Docencia, investigación y extensión caminan entre los cerros</summary>
+        </entry>
+</feed>
