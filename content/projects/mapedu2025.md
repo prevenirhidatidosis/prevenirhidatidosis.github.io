@@ -62,6 +62,8 @@ Esta secuencia didáctica se fundamenta en la necesidad de vincular el conocimie
 
 Analizar y caracterizar la epidemiología de las zoonosis parasitarias en caninos, comprendiendo su impacto en la salud pública y desarrollando estrategias de prevención y control.
 
+![infografía](/img/infografia.png)
+
 ## Aprendizajes Esperados
 
 * Identificar las principales zoonosis parasitarias transmitidas por caninos.  
