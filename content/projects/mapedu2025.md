@@ -138,7 +138,7 @@ Sí. Desde la escuela se comunicaban con las familias y se les solicitaban que l
 * Universidad Nacional de Río Cuarto
 * Las Lagunitas red comunitaria y científica
 
-![](https://daniel.bellomo.ar/com.comunitaria.UNRC.Sep25/img/logo_LLRCC.png)
+![](/img/LLRCC.png)
 
 ## Describan las estrategias de vinculación con la comunidad
     
