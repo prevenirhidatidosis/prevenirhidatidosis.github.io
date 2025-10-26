@@ -138,6 +138,8 @@ Sí. Desde la escuela se comunicaban con las familias y se les solicitaban que l
 * Universidad Nacional de Río Cuarto
 * Las Lagunitas red comunitaria y científica
 
+![](https://daniel.bellomo.ar/com.comunitaria.UNRC.Sep25/img/logo_LLRCC.png)
+
 ## Describan las estrategias de vinculación con la comunidad
     
 El proyecto se fundamenta en la construcción colectiva del conocimiento y la participación activa de la comunidad en todas sus etapas. Para ello, se implementarán las siguientes estrategias:  
@@ -163,6 +165,10 @@ El proyecto se fundamenta en la construcción colectiva del conocimiento y la pa
   
 * Desarrollar mapas accesibles y comprensibles, validados en conjunto con la comunidad.
 * Presentar los resultados en encuentros abiertos y en formato visual para favorecer la apropiación del conocimiento.
+
+![](https://tierraunidaactiva.github.io/fotos/media/large/2024.11.21_Las_Lagunitas/DSC00749.JPG)
+
+![](https://tierraunidaactiva.github.io/fotos/media/large/2024.11.21_Las_Lagunitas/DSC00756.JPG)
 
 ## 5. Impacto y herramientas utilizadas (Criterios 1 y 5)
 
