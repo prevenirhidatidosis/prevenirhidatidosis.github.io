@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://prevenirhidatidosis.libre.net.ar/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
+        <tabi:base_url>https:&#x2F;&#x2F;prevenirhidatidosis.libre.net.ar</tabi:base_url>
+        <tabi:separator>
+            •
+        </tabi:separator>
+        <tabi:about_feeds>Esta es una fuente web, también conocida como fuente Atom. Suscríbete copiando la URL de la barra de direcciones en tu lector de noticias. Visita About Feeds para aprender más y empezar. Es gratis. </tabi:about_feeds>
+        <tabi:visit_the_site>Visita la web</tabi:visit_the_site>
+        <tabi:recent_posts>Publicaciones recientes</tabi:recent_posts>
+        <tabi:last_updated_on>Actualizado el $DATE</tabi:last_updated_on>
+        <tabi:default_theme></tabi:default_theme>
+        <tabi:post_listing_date>date</tabi:post_listing_date>
+        <tabi:current_section>semana ciencia</tabi:current_section>
+    </tabi:metadata><title>Prevenir hidatidosis - semana ciencia</title>
+        <subtitle>Elaboración de mapas de riesgo a partir de la identificación y registro de faenas de consumo familiar como estrategia para la prevención de la hidatidosis</subtitle>
+    <link href="https://prevenirhidatidosis.libre.net.ar/tags/semana-ciencia/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://prevenirhidatidosis.libre.net.ar/tags/semana-ciencia/" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2025-04-07T00:00:00+00:00</updated><id>https://prevenirhidatidosis.libre.net.ar/tags/semana-ciencia/atom.xml</id><entry xml:lang="es">
+        <title>Semana Nacional de la Ciencia 2025</title>
+        <published>2025-04-07T00:00:00+00:00</published>
+        <updated>2025-04-07T00:00:00+00:00</updated>
+        <author>
+            <name>Esc. rural José G. Brochero, Las Lagunitas Red Comunitaria y Científica &amp;&amp; FAV UNRC</name>
+        </author>
+        <link rel="alternate" href="https://prevenirhidatidosis.libre.net.ar/blog/2025-04-07-ssemana-ciencia/" type="text/html"/>
+        <id>https://prevenirhidatidosis.libre.net.ar/blog/2025-04-07-ssemana-ciencia/</id>
+        
+            <content type="html">&lt;p&gt;Presentación en la FAV UNRC en el marco de la semana nacional de la Ciencia 2025.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;semana_ciencia_2025.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">Presentación en el marco de la semana nacional de la Ciencia 2025</summary>
+        </entry>
+</feed>

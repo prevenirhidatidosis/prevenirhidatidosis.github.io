@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://prevenirhidatidosis.libre.net.ar/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
+        <tabi:base_url>https:&#x2F;&#x2F;prevenirhidatidosis.libre.net.ar</tabi:base_url>
+        <tabi:separator>
+            •
+        </tabi:separator>
+        <tabi:about_feeds>Esta es una fuente web, también conocida como fuente Atom. Suscríbete copiando la URL de la barra de direcciones en tu lector de noticias. Visita About Feeds para aprender más y empezar. Es gratis. </tabi:about_feeds>
+        <tabi:visit_the_site>Visita la web</tabi:visit_the_site>
+        <tabi:recent_posts>Publicaciones recientes</tabi:recent_posts>
+        <tabi:last_updated_on>Actualizado el $DATE</tabi:last_updated_on>
+        <tabi:default_theme></tabi:default_theme>
+        <tabi:post_listing_date>date</tabi:post_listing_date>
+        <tabi:current_section>charlas</tabi:current_section>
+    </tabi:metadata><title>Prevenir hidatidosis - charlas</title>
+        <subtitle>Elaboración de mapas de riesgo a partir de la identificación y registro de faenas de consumo familiar como estrategia para la prevención de la hidatidosis</subtitle>
+    <link href="https://prevenirhidatidosis.libre.net.ar/tags/charlas/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://prevenirhidatidosis.libre.net.ar/tags/charlas/" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2025-10-16T00:00:00+00:00</updated><id>https://prevenirhidatidosis.libre.net.ar/tags/charlas/atom.xml</id><entry xml:lang="es">
+        <title>Charlas educativas en escuelas primarias y secundarias de la localidad de Santa Eufemia</title>
+        <published>2025-10-16T00:00:00+00:00</published>
+        <updated>2025-10-16T00:00:00+00:00</updated>
+        <author>
+            <name>Esc. rural José G. Brochero, Las Lagunitas Red Comunitaria y Científica &amp;&amp; FAV UNRC</name>
+        </author>
+        <link rel="alternate" href="https://prevenirhidatidosis.libre.net.ar/blog/2025-10-16-sta-eufemia/" type="text/html"/>
+        <id>https://prevenirhidatidosis.libre.net.ar/blog/2025-10-16-sta-eufemia/</id>
+        
+            <content type="html">&lt;p&gt;El jueves 16 de octubre, en el marco de los proyectos de investigación “Caracterización Epidemiológica de Zoonosis Parasitarias en Caninos” y de extensión “Las Escuelas y el Desafío de la Seguridad Alimentaria”, docentes de los Departamentos de Patología Animal y Salud Pública brindaron charlas educativas en escuelas primarias y secundarias de la localidad de Santa Eufemia.&lt;&#x2F;p&gt;
+&lt;p&gt;El objetivo de estas charlas fue difundir medidas de prevención frente a las zoonosis parasitarias en caninos, particularmente aquellas vinculadas a la elaboración y consumo de alimentos en zonas rurales de la provincia de Córdoba. Esta iniciativa surgió a partir de una necesidad planteada por la intendenta de la localidad, Gisella Barrionuevo, quien, tras conocerse un caso de hidatidosis en las inmediaciones de la ciudad, advirtió la urgencia de implementar acciones que protejan la salud de la comunidad.&lt;&#x2F;p&gt;
+&lt;p&gt;La actividad agropecuaria representa un factor de riesgo reconocido para diversas enfermedades zoonóticas, como brucelosis, tuberculosis, hidatidosis y leptospirosis. El principal riesgo de transmisión se relaciona con el contacto directo con animales o con sus excreciones, secreciones, productos y subproductos.&lt;&#x2F;p&gt;
+&lt;p&gt;En el caso específico de la hidatidosis, uno de los factores socioculturales que favorecen su propagación es la cría de animales, especialmente ganado bovino, caprino y ovino. En estos contextos es común la práctica de faena domiciliaria, una tradición ancestral que se realiza tanto para el consumo familiar de carne como para su comercialización o intercambio local. Esta faena, al realizarse sin controles sanitarios, facilita la entrega de vísceras crudas a los perros, lo que perpetúa el ciclo biológico del parásito causante de la enfermedad.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;fotos&quot;&gt;Fotos&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.10.16_Sta.Eufemia&#x2F;2025-10-25-10.48.44.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.10.16_Sta.Eufemia&#x2F;2025-10-25-10.48.45.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.10.16_Sta.Eufemia&#x2F;2025-10-25-10.48.48.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.10.16_Sta.Eufemia&#x2F;2025-10-25-10.48.54.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.10.16_Sta.Eufemia&#x2F;2025-10-25-10.48.541.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.10.16_Sta.Eufemia&#x2F;2025-10-25-10.48.542.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.10.16_Sta.Eufemia&#x2F;2025-10-25-10.48.543.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.10.16_Sta.Eufemia&#x2F;2025-10-25-10.48.55.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.10.16_Sta.Eufemia&#x2F;2025-10-25-10.48.551.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.10.16_Sta.Eufemia&#x2F;2025-10-25-10.48.552.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.10.16_Sta.Eufemia&#x2F;2025-10-25-10.48.553.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.10.16_Sta.Eufemia&#x2F;2025-10-25.10.48.55.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.10.16_Sta.Eufemia&#x2F;2025-10-2510.48.51.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">En el marco de los proyectos de investigación &#x27;Caracterización Epidemiológica de Zoonosis Parasitarias en Caninos&#x27; y de extensión &#x27;Las Escuelas y el Desafío de la Seguridad Alimentaria&#x27;, docentes de los Departamentos de Patología Animal y Salud Pública brindaron charlas educativas en escuelas primarias y secundarias de la localidad de Santa Eufemia (Córdoba)</summary>
+        </entry><entry xml:lang="es">
+        <title>Charla hidatidosis</title>
+        <published>2025-05-02T00:00:00+00:00</published>
+        <updated>2025-05-02T00:00:00+00:00</updated>
+        <author>
+            <name>Esc. rural José G. Brochero, Las Lagunitas Red Comunitaria y Científica &amp;&amp; FAV UNRC</name>
+        </author>
+        <link rel="alternate" href="https://prevenirhidatidosis.libre.net.ar/blog/2025-05-charla-hidatidosis/" type="text/html"/>
+        <id>https://prevenirhidatidosis.libre.net.ar/blog/2025-05-charla-hidatidosis/</id>
+        
+            <content type="html">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;00-presentation-100.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;01-presentation-101.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;02-presentation-102.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-001.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-002.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-003.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-004.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-005.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-006.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-007.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-008.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-009.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-010.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-011.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-012.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-013.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-014.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-015.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-016.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-017.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-018.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-019.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-020.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-020.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-021.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-022.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-023.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-024.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-025.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-026.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-027.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-028.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-029.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-030.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-031.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-032.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-033.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-034.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-035.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-036.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-037.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-038.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-039.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;original&#x2F;2025.05_charla.hidatidosis&#x2F;presentation-040.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">Charla sobre hidatidosis dictada a las escuelas rurales</summary>
+        </entry>
+</feed>

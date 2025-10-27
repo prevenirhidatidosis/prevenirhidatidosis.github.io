@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://prevenirhidatidosis.libre.net.ar/sitemap.xml

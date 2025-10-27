@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://prevenirhidatidosis.libre.net.ar/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
+        <tabi:base_url>https:&#x2F;&#x2F;prevenirhidatidosis.libre.net.ar</tabi:base_url>
+        <tabi:separator>
+            •
+        </tabi:separator>
+        <tabi:about_feeds>Esta es una fuente web, también conocida como fuente Atom. Suscríbete copiando la URL de la barra de direcciones en tu lector de noticias. Visita About Feeds para aprender más y empezar. Es gratis. </tabi:about_feeds>
+        <tabi:visit_the_site>Visita la web</tabi:visit_the_site>
+        <tabi:recent_posts>Publicaciones recientes</tabi:recent_posts>
+        <tabi:last_updated_on>Actualizado el $DATE</tabi:last_updated_on>
+        <tabi:default_theme></tabi:default_theme>
+        <tabi:post_listing_date>date</tabi:post_listing_date>
+        <tabi:current_section>feria de ciencias</tabi:current_section>
+    </tabi:metadata><title>Prevenir hidatidosis - feria de ciencias</title>
+        <subtitle>Elaboración de mapas de riesgo a partir de la identificación y registro de faenas de consumo familiar como estrategia para la prevención de la hidatidosis</subtitle>
+    <link href="https://prevenirhidatidosis.libre.net.ar/tags/feria-de-ciencias/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://prevenirhidatidosis.libre.net.ar/tags/feria-de-ciencias/" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2025-08-28T00:00:00+00:00</updated><id>https://prevenirhidatidosis.libre.net.ar/tags/feria-de-ciencias/atom.xml</id><entry xml:lang="es">
+        <title>Feria de ciencias 2025</title>
+        <published>2025-08-28T00:00:00+00:00</published>
+        <updated>2025-08-28T00:00:00+00:00</updated>
+        <author>
+            <name>Esc. rural José G. Brochero, Las Lagunitas Red Comunitaria y Científica &amp;&amp; FAV UNRC</name>
+        </author>
+        <link rel="alternate" href="https://prevenirhidatidosis.libre.net.ar/blog/2025-08-05-feria-ciencias/" type="text/html"/>
+        <id>https://prevenirhidatidosis.libre.net.ar/blog/2025-08-05-feria-ciencias/</id>
+        
+            <content type="html">&lt;ul&gt;
+&lt;li&gt;Secuencia Didáctica
+&lt;ul&gt;
+&lt;li&gt;Caracterización Epidemiológica de Zoonosis Parasitarias en Caninos&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Nivel
+&lt;ul&gt;
+&lt;li&gt;Primario&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Grado
+&lt;ul&gt;
+&lt;li&gt;6to&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Espacio Curricular
+&lt;ul&gt;
+&lt;li&gt;Ciencias Naturales&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Integración con otras áreas
+&lt;ul&gt;
+&lt;li&gt;Lectura y escritura.&lt;&#x2F;li&gt;
+&lt;li&gt;Matemática.&lt;&#x2F;li&gt;
+&lt;li&gt;Educación para la Salud.&lt;&#x2F;li&gt;
+&lt;li&gt;Ciudadana y Participación&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mapa.libre.net.ar&#x2F;prevenir.hidatidosis&#x2F;&quot;&gt;mapa -&amp;gt; https:&#x2F;&#x2F;mapa.libre.net.ar&#x2F;prevenir.hidatidosis&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;fotos&quot;&gt;Fotos&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.08.28_feria_ciencias&#x2F;feria_ciencias_01.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.08.28_feria_ciencias&#x2F;feria_ciencias_02.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.08.28_feria_ciencias&#x2F;feria_ciencias_03.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.08.28_feria_ciencias&#x2F;feria_ciencias_04.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;hidatidosis.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2025.08.28_feria_ciencias&#x2F;feria_ciencias_05.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">Las Escuelas rurales de los parajes Las Lagunitas y Cerro Colorado presentar el proyecto en la feria de ciencias 2025</summary>
+        </entry>
+</feed>

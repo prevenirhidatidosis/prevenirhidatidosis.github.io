@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://prevenirhidatidosis.libre.net.ar/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
+        <tabi:base_url>https:&#x2F;&#x2F;prevenirhidatidosis.libre.net.ar</tabi:base_url>
+        <tabi:separator>
+            •
+        </tabi:separator>
+        <tabi:about_feeds>Esta es una fuente web, también conocida como fuente Atom. Suscríbete copiando la URL de la barra de direcciones en tu lector de noticias. Visita About Feeds para aprender más y empezar. Es gratis. </tabi:about_feeds>
+        <tabi:visit_the_site>Visita la web</tabi:visit_the_site>
+        <tabi:recent_posts>Publicaciones recientes</tabi:recent_posts>
+        <tabi:last_updated_on>Actualizado el $DATE</tabi:last_updated_on>
+        <tabi:default_theme></tabi:default_theme>
+        <tabi:post_listing_date>date</tabi:post_listing_date>
+        <tabi:current_section>red comunitaria</tabi:current_section>
+    </tabi:metadata><title>Prevenir hidatidosis - red comunitaria</title>
+        <subtitle>Elaboración de mapas de riesgo a partir de la identificación y registro de faenas de consumo familiar como estrategia para la prevención de la hidatidosis</subtitle>
+    <link href="https://prevenirhidatidosis.libre.net.ar/tags/red-comunitaria/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://prevenirhidatidosis.libre.net.ar/tags/red-comunitaria/" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2022-08-13T00:00:00+00:00</updated><id>https://prevenirhidatidosis.libre.net.ar/tags/red-comunitaria/atom.xml</id><entry xml:lang="es">
+        <title>1er Reunión para presentar el proyecto de la red comunitaria</title>
+        <published>2022-08-13T00:00:00+00:00</published>
+        <updated>2022-08-13T00:00:00+00:00</updated>
+        <author>
+            <name>Esc. rural José G. Brochero, Las Lagunitas Red Comunitaria y Científica &amp;&amp; FAV UNRC</name>
+        </author>
+        <link rel="alternate" href="https://prevenirhidatidosis.libre.net.ar/blog/2022-08-13-reunion-en-las-guindas/" type="text/html"/>
+        <id>https://prevenirhidatidosis.libre.net.ar/blog/2022-08-13-reunion-en-las-guindas/</id>
+        
+            <content type="html">&lt;p&gt;Convocados por el docente de la FAV, Dr. Guillermo Balboa, los vecinos del paraje Las Lagunitas asisten a la 1er reunión de presentación del proyecto de la red comunitaria y científica de telecomunicaciones. De la FAV, junto con Guillermo, asistió Daniel Bellomo, quien ha sido el impulsor inicial de la propuesta.&lt;&#x2F;p&gt;
+&lt;p&gt;La reunión se realizó en la casa del campo Las Guindas, propiedad de la UNRC.&lt;&#x2F;p&gt;
+&lt;p&gt;Las Familias con las que nos reunimos&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Patricio Zabala&lt;&#x2F;li&gt;
+&lt;li&gt;Diego Nievas&lt;&#x2F;li&gt;
+&lt;li&gt;Ramon Gomez&lt;&#x2F;li&gt;
+&lt;li&gt;Fabian Zabala&lt;&#x2F;li&gt;
+&lt;li&gt;José Suarez&lt;&#x2F;li&gt;
+&lt;li&gt;Julio Romero&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Familias interesadas que no pudieron asistir&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Franco Oviedo&lt;&#x2F;li&gt;
+&lt;li&gt;Domingo Ponce&lt;&#x2F;li&gt;
+&lt;li&gt;Walter Romo&lt;&#x2F;li&gt;
+&lt;li&gt;Juan Manuel Schiavi&lt;&#x2F;li&gt;
+&lt;li&gt;Lisandro Schiavi&lt;&#x2F;li&gt;
+&lt;li&gt;Elba Arias&lt;&#x2F;li&gt;
+&lt;li&gt;Gladis Gonzales&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ese día iniciamos el camino del mapeo comunitario.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;fotos&quot;&gt;Fotos&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;daniel.bellomo.ar&#x2F;com.comunitaria.UNRC.Sep25&#x2F;img&#x2F;IMG_5400.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;daniel.bellomo.ar&#x2F;com.comunitaria.UNRC.Sep25&#x2F;img&#x2F;IMG_5423.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;daniel.bellomo.ar&#x2F;com.comunitaria.UNRC.Sep25&#x2F;img&#x2F;IMG_5424.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">Se realiza la 1er reunión para presentar el proyecto de la red</summary>
+        </entry>
+</feed>

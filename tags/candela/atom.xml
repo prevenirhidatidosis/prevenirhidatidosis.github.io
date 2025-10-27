@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://prevenirhidatidosis.libre.net.ar/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
+        <tabi:base_url>https:&#x2F;&#x2F;prevenirhidatidosis.libre.net.ar</tabi:base_url>
+        <tabi:separator>
+            •
+        </tabi:separator>
+        <tabi:about_feeds>Esta es una fuente web, también conocida como fuente Atom. Suscríbete copiando la URL de la barra de direcciones en tu lector de noticias. Visita About Feeds para aprender más y empezar. Es gratis. </tabi:about_feeds>
+        <tabi:visit_the_site>Visita la web</tabi:visit_the_site>
+        <tabi:recent_posts>Publicaciones recientes</tabi:recent_posts>
+        <tabi:last_updated_on>Actualizado el $DATE</tabi:last_updated_on>
+        <tabi:default_theme></tabi:default_theme>
+        <tabi:post_listing_date>date</tabi:post_listing_date>
+        <tabi:current_section>Candela</tabi:current_section>
+    </tabi:metadata><title>Prevenir hidatidosis - Candela</title>
+        <subtitle>Elaboración de mapas de riesgo a partir de la identificación y registro de faenas de consumo familiar como estrategia para la prevención de la hidatidosis</subtitle>
+    <link href="https://prevenirhidatidosis.libre.net.ar/tags/candela/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://prevenirhidatidosis.libre.net.ar/tags/candela/" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2025-10-17T00:00:00+00:00</updated><id>https://prevenirhidatidosis.libre.net.ar/tags/candela/atom.xml</id><entry xml:lang="es">
+        <title>Flavia nos comenta sobre el viaje a la escuela de Candela</title>
+        <published>2025-10-17T00:00:00+00:00</published>
+        <updated>2025-10-17T00:00:00+00:00</updated>
+        <author>
+            <name>Esc. rural José G. Brochero, Las Lagunitas Red Comunitaria y Científica &amp;&amp; FAV UNRC</name>
+        </author>
+        <link rel="alternate" href="https://prevenirhidatidosis.libre.net.ar/blog/2025-10-17-candela/" type="text/html"/>
+        <id>https://prevenirhidatidosis.libre.net.ar/blog/2025-10-17-candela/</id>
+        
+            <content type="html">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;share&#x2F;r&#x2F;1EqW8LYc4b&quot;&gt;&lt;img src=&quot;&#x2F;img&#x2F;candela.png&quot; alt=&quot;Flavia nos comenta sobre el viaje que hace Candela todos los días a la escuela&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.facebook.com&#x2F;share&#x2F;r&#x2F;1EqW8LYc4b&#x2F;&quot;&gt;Flavia, la maestra, nos comenta sobre el viaje que hace Candela, la única estudiante, todos los días para ir a la escuela&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">La maestra de la escuela rural nos comenta sobre el viaje que hace Candela todos los días</summary>
+        </entry>
+</feed>
